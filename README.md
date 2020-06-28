@@ -1,4 +1,4 @@
-# AppHost
+# AppHostelry :laughing:
 
 A new Flutter project.
 
